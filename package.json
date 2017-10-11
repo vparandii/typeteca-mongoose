@@ -1,0 +1,34 @@
+{
+  "name": "typeteca-mongoose",
+  "version": "1.0.0",
+  "description": "Typeteca integration for Mongoose ODM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walandemar/typeteca-mongoose.git"
+  },
+  "keywords": [
+    "JS",
+    "Node.js",
+    "Typeteca",
+    "Mongoose",
+    "schema",
+    "validation",
+    "types"
+  ],
+  "author": "Volodymyr Parandii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walandemar/typeteca-mongoose/issues"
+  },
+  "homepage": "https://github.com/walandemar/typeteca-mongoose#readme",
+  "engines": {
+    "node": "^8.6.0"
+  },
+  "peerDependencies": {
+    "mongoose": "^4.11"
+  }
+}
